@@ -1,0 +1,36 @@
+body{
+font-family: 'Segoe UI', sans-serif;
+background: linear-gradient(135deg,#4e73df,#1cc88a);
+min-height:100vh;
+}
+
+.auth-card{
+border-radius:15px;
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.form-control{
+border-radius:10px;
+}
+
+.btn{
+border-radius:10px;
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.05);
+}
+
+a{
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+.dashboard-card{
+border-radius:15px;
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
+}
