@@ -46,3 +46,10 @@ body{
     background:white;
     box-shadow:0 8px 20px rgba(0,0,0,0.2);
 }
+.btn{
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.05);
+}
