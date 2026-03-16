@@ -1,52 +1,34 @@
-\# HTML Authentication System POC
+Authentication System Styling
 
 
 
-This project is a simple authentication system created using only HTML.
+This project improves a simple HTML authentication system by adding Bootstrap styling and custom CSS.
 
 
 
-\## Pages Included
+Features
+
+\- Responsive design using Bootstrap
+
+\- Styled login, register, and password pages
+
+\- Dashboard with navigation bar
+
+\- Custom CSS styling
+
+\- Hover effects and shadows
 
 
 
-\- Login Page
+Pages
 
-\- Register Page
+Login
 
-\- Forgot Password Page
+Register
 
-\- Reset Password Page
+Forgot Password
 
-\- Dashboard Page
+Reset Password
 
-
-
-\## Features
-
-
-
-\- Plain HTML only
-
-\- Page redirection using anchor tags
-
-\- No CSS
-
-\- No JavaScript
-
-
-
-\## How to Run
-
-
-
-Open login.html in your browser.
-
-
-
-\## Author
-
-
-
-SIDDARAMESHWARA J
+Dashboard
 
